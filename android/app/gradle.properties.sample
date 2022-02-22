@@ -1,0 +1,9 @@
+android.useDeprecatedNdk=true
+android.enableAapt2=true
+android.useAndroidX=true
+android.enableJetifier=true
+
+MYAPP_RELEASE_STORE_FILE=keys.keystore
+MYAPP_RELEASE_KEY_ALIAS=<alias>
+MYAPP_RELEASE_STORE_PASSWORD=<password>
+MYAPP_RELEASE_KEY_PASSWORD=<password>

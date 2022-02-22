@@ -1,0 +1,1 @@
+export {AppTablet} from './AppTablet';

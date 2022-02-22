@@ -1,0 +1,18 @@
+export default {
+  ApplicationId: 'ApplicationId',
+  VersionCode: 'VersionCode',
+  VersionName: 'VersionName',
+  ArticleTitleFontSize: 'ArticleTitleFontSize',
+  GroupTitleFontSize: 'GroupTitleFontSize',
+  MenuTextFontSize: 'MenuTextFontSize',
+  PartFontSize: 'PartFontSize',
+  GalleryCaptionFontSize: 'GalleryCaptionFontSize',
+  BorderArticle: 'BorderArticle',
+  ArticleDefault: 'ArticleDefault',
+  AppGoogleId: 'AppGoogleId',
+  AppAppleStore: 'AppAppleStore',
+  LangLocked: 'LangLocked',
+  LangLockedId: 'LangLockedId',
+  MenuItemHeight: 'MenuItemHeight',
+  ArticleLocked: 'ArticleLocked',
+};
