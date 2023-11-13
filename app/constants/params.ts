@@ -3,8 +3,8 @@ import _ParamsKey from './params.keys';
 export const ParamsKey = _ParamsKey;
 
 let params_all = {
-  [ParamsKey.VersionCode]: 127,
-  [ParamsKey.VersionName]: '3.8',
+  [ParamsKey.VersionCode]: 128,
+  [ParamsKey.VersionName]: '3.9',
   [ParamsKey.ArticleTitleFontSize]: 30,
   [ParamsKey.GroupTitleFontSize]: 25,
   [ParamsKey.MenuTextFontSize]: 20,
